@@ -8,7 +8,11 @@ Frontend — Mini Admin Panel (React + TypeScript)Display verified users and a 7
 
 ## Project setup
 
-```bash
+```
+git clone https://github.com/divinecharlotte/mini-admin-panel-front-end.git
+
+cd mini-admin-panel-front-end
+
 $ npm install
 ```
 
