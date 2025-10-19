@@ -8,6 +8,7 @@ interface SidebarProps {
 export function Sidebar({ isOpen, onClose }: SidebarProps) {
   const navigation = [
     { name: 'Users', href: '/', icon: '👥' },
+    { name: 'User Management', href: '/user-management', icon: '⚙️' },
     { name: 'Analytics', href: '/analytics', icon: '📊' },
   ];
 

@@ -108,12 +108,6 @@ export function UsersPage() {
 
   return (
     <div>
-      <div className="mb-6">
-        <h1 className="text-2xl font-bold text-gray-900">Users Management</h1>
-        <p className="mt-2 text-gray-600">
-          Manage and view all verified users in the system
-        </p>
-      </div>
       {content}
     </div>
   );
